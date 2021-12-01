@@ -1,0 +1,70 @@
+body {
+  font-family: 'Odibee Sans', cursive;
+  margin-top: 95px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left: 10px;
+  height: 1800px;
+  background: #36486b;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.imgContainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  
+
+}
+
+.imgContainer img {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 75px;
+  opacity: 0.9;
+
+}
+
+
+.itemDescription {
+  border: 2px solid;
+  border-radius: 10px;
+  padding-left: 40px;
+  background: white;
+  margin-bottom: 10px;
+  ;
+
+}
+
+.btn-primary {
+  float: right;
+  margin-right: 45px;
+  background-color: red;
+  border-color: black;
+  border-radius: 7px;
+  padding:20px;
+
+}
+
+.btn-primary:hover{
+  color: #fff;
+  background-color: blue;
+  border-color: black;
+
+
+}
+
+.aimep {
+  font-style: oblique;
+  font-size: 35px;
+  color:red;
+  border: 2px;
+}
